@@ -13,11 +13,11 @@ LICENSE
 payload.bin
 payload.js
 psfree.mjs
-README.md
+readme.md
 send.mjs
 fonts\FONTS.LICENSE
 fonts\LiberationMono-Regular.ttf
-fonts\README.txt
+fonts\readme.txt
 kpatch\900.c
 kpatch\900.d
 kpatch\900.elf
